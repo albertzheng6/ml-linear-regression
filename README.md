@@ -19,3 +19,7 @@ Reference
 Data
 - linReg1.csv - no feat norm, alpha = 0.01
 - linReg2.csv - feat norm, alpha = 0.3
+
+Examples
+
+![Figure_1](https://user-images.githubusercontent.com/106856325/171986069-04d53806-2c37-4858-8e1f-cfa8a276ec6e.png)
