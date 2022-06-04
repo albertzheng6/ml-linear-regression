@@ -26,7 +26,7 @@ Testing different learning rates for data set 1
 
 ![Figure_2](https://user-images.githubusercontent.com/106856325/171986347-c2cd9df1-be5a-4bca-a167-e4b1b1a9de29.png)
 
-Plotting linear functions to predict data set using the learned parameters
+Plotting linear functions to predict data set 1 using the learned parameters
 
 ![Figure_1](https://user-images.githubusercontent.com/106856325/171986069-04d53806-2c37-4858-8e1f-cfa8a276ec6e.png)
 
