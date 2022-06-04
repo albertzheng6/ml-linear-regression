@@ -1,4 +1,4 @@
-# ML-using-Linear-Regression
+# Machine-Learning-Using-Linear-Regression
 This code demonstrates the basics of machine learning by implementing algorithms for linear regression of multiple variables. Given a training set of data with any number of features, it can learn parameters that fit an optimal linear function to the data and make predictions.
 
 Steps to implement linear regression using this code:
