@@ -1,12 +1,12 @@
 # Machine-Learning-Using-Linear-Regression
-This code demonstrates the basics of machine learning by implementing algorithms for linear regression of multiple variables. Given a training set of data with any number of features, it can learn parameters that fit an optimal linear function to the data and make predictions.
+This code demonstrates the basics of machine learning by implementing algorithms for linear regression of multiple variables. Given a training set of data with any number of features, it can learn parameters that fit an optimal linear function to the data and make predictions. While this code can work for multiple variables, linear regression is best used when there are only two features because the data can be easily plotted, and because neural networks are better "in general" for data sets with a high number of features.
 
 Steps to implement linear regression using this code:
 1. Obtain raw initial data from somewhere and put it into a csv file.
 2. Modify the data by adding the x_0 feature. Also, feature normalize the data if necessary.
 3. Choose a learning rate by plotting the speed of convergence of the error function with respect to the number of iterations.
 4. Depending on the situation, apply a gradient descent algorithm to return the optimal parameters that minimizes the error function.
-5. If there are only two features, plot linear regression using the optimal parameters.
+5. Plot linear regression using the optimal parameters.
 
 Reference
 - xj_i is the ith element of the jth training example
