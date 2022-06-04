@@ -17,5 +17,5 @@ Reference
 - Csv files MUST include headers (x_0, x_1, ..., y) or else the first training ex will be cut off
 
 Data
-- linreg1.csv - no feat norm, alpha = 0.01
-- linreg2.csv - feat norm, alpha = 0.3
+- linReg1.csv - no feat norm, alpha = 0.01
+- linReg2.csv - feat norm, alpha = 0.3
