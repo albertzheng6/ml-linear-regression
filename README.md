@@ -1,2 +1,2 @@
 # ML-using-Linear-Regression
-Implementing machine learning using linear regression algorithms.
+Demonstrates the basics of machine learning using linear regression algorithms. 
