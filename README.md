@@ -23,15 +23,19 @@ Data
 Examples
 
 Testing different learning rates for data set 1
+
 ![Figure_2](https://user-images.githubusercontent.com/106856325/171986347-c2cd9df1-be5a-4bca-a167-e4b1b1a9de29.png)
 
 Plotting linear functions to predict data set using the learned parameters
+
 ![Figure_1](https://user-images.githubusercontent.com/106856325/171986069-04d53806-2c37-4858-8e1f-cfa8a276ec6e.png)
 
 Visualizing data set 2
+
 ![Figure_3](https://user-images.githubusercontent.com/106856325/171986797-762ad215-e493-4b7a-bf33-bce8c7e9356d.png)
 ![Figure_4](https://user-images.githubusercontent.com/106856325/171986800-63eca4bd-30b5-4baf-b628-ccd3b9f6ed97.png)
 
 Testing different learning rates for data set 2
+
 ![Figure_5](https://user-images.githubusercontent.com/106856325/171986821-25dd6164-92ab-4a5a-b528-2624ed030a7d.png)
 
